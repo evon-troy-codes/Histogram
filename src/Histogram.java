@@ -1,6 +1,6 @@
 /*Create a program Histogram.java for printing a histogram bar-chart. Your program should read
 data from a file and this data can be any number of integers (range from 1 to 100), uppercase and
-lowercase letters, and symbols. Note that some of the integers may be out of the range (1 to 100)
+lowercase letters, and symbols. Note that some integers may be out of the range (1 to 100)
 and must be handled appropriately by your program.  */
 
 import java.io.BufferedReader;
